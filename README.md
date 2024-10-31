@@ -10,7 +10,7 @@ In FSI_Cortex_AI_Pipeline_Industrialization.ipynb, we take the functional elemen
 2. Load FOMC documents into your stage (https://snowflakewiki.medium.com/loading-files-into-stage-through-snowflake-ui-the-complete-guide-321b135f6175)
 3. FSI_Cortex_AI_Pipeline.ipynb
 4. FSI_Cortex_Search.ipynb
-5. FSI_Cortex_AI_Pipeline_Industrialization.ipynb
+5. Read our Medium Article on AI Pipelines and follow along with FSI_Cortex_AI_Pipeline_Industrialization.ipynb
 
 I hope you learn as much as I did builidng these! 
 
